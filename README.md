@@ -20,7 +20,7 @@
 <p align="left">
 
 <a href="https://www.linkedin.com/in/mukesh-yadav-15568895" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mukesh-yadav-15568895" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mukeshtechub" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="MukeshTecHub" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCEhl8ROa9ayyYJ64DpMG9OQ/featured" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="MukeshTecHub" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
