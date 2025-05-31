@@ -52,6 +52,8 @@ Open to collaborations and discussions on AI and data science. Reach out via:
 
 - **LinkedIn**: [Mukesh Yadav](https://www.linkedin.com/in/eryadavmukesh/)
 - **YouTube**: [MukeshTecHub](https://www.youtube.com/channel/UCEhl8ROa9ayyYJ64DpMG9OQ/featured)
+- **Portfolio**: [View my projects](https://eryadavmukesh.github.io)
+
 
 ## Stats
 <p>
