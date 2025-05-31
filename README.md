@@ -5,6 +5,7 @@ I am a Data Scientist specializing in **Computer Vision**, **Generative AI**, an
 
 ## Skills
 - **Languages**: Python, Java
+- **Machine Learning**: Regression, Decision Trees, SVM, Probabilistic Models (Naive Bayes, Bayesian Networks)
 - **Frameworks & Libraries**: TensorFlow, PyTorch, Scikit-learn, OpenCV, InspectAI, LangChain, LangGraph
 - **Generative AI**: GANs, Diffusion Models, RAG, Transformers, LLM Guardrails
 - **Tools & Platforms**: Azure, AWS, Docker, Git, Jenkins, Postman, MongoDB, MySQL
